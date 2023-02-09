@@ -8,7 +8,7 @@ This project is a small console application showing the first 30 tasks according
 + Language
 + Difficulty
 
-You can choose a difficulty from 1 to 8 (as in the original)
+You can choose a difficulty from 1 to 8 (as in the original).
 But the choice of languages is more sparse, to choose from:
 + C++
 + C#
