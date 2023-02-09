@@ -1,6 +1,6 @@
 # Scrap kyu from Codewars
 
-![name](../../../resources/image/codewars.png)
+![name](image/codewars.png)
 
 This project is a small console application showing the first 30 tasks according to the specified criteria. 
 
